@@ -102,11 +102,11 @@ export const buttonRecipe = defineRecipe({
             },
             neutral: {
                 h: '2.7vw',
-                bg: 'base',
+                bg: 'placeholder',
                 fontSize: 'xsm',
                 color: 'primary',
                 _hover: {
-                    bg: 'primary',
+                    bg: 'placeholder',
                     color: 'base'
                 }
             },

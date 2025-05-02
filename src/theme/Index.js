@@ -7,7 +7,7 @@ const config = defineConfig({
             colors: {
                 base: { value: '#ffffff' }, // white
                 primary: { value: '#353535' }, // black
-                secondary: { value: '#284b63' }, // blue
+                secondary: { value: '#ff9f1c' }, // blue
                 accent: { value: '#3c6e71' }, // green (somehow)
                 placeholder: { value: '#b0b3b5' }, // light gray
                 hover: { value: '#dddddd' }, // gray
